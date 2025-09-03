@@ -1,5 +1,5 @@
 import React from "react";
-import ListProduct from "./comonent/listPage";
+import ListProduct from "./component/listPage";
 
 const App = () => {
   const ListOfproduct = [
