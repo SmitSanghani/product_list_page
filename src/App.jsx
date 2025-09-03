@@ -35,7 +35,7 @@ const App = () => {
 
   return (
     <div>
-      <h1 style={{textAlign:"center"}}>product page</h1>
+      <h1 style={{textAlign:"center"}}>product pageee</h1>
       <ListProduct products={ListOfproduct} />
     </div>
   );
